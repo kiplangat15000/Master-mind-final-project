@@ -23,3 +23,103 @@
 }
 
 
+#vision {
+    background-image: url(./images/stefano-zocca-TCY-24aPvPE-unsplash.jpg);
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 140px;
+    padding: 6cm;
+    text-align: center;
+    margin-left: 8cm;
+    margin-top: 5cm;
+}
+
+#visionp {
+    border: 1cm;
+    max-width: 12cm;
+    max-height: 22cm;
+    margin-left: 25cm;
+    text-align: right;
+    color: black;
+    font-size: 35px;
+    margin-top: -12cm;
+}
+
+#vi {
+    text-align: center;
+    margin-top: 3cm;
+}
+
+
+#visionpic {
+    border: 1px;
+    max-width: 35cm;
+    margin-left: 5cm;
+    margin-top: 4cm;
+    padding: 4cm;
+    margin-right: 5cm;
+
+}
+
+#team {
+    border: 1px;
+    max-width: 12cm;
+    margin-left: 0cm;
+    margin-top: -10cm;
+    font-size: 30px;
+}
+
+#pic {
+    background-image: url(./images/dr-josiah-sarpong-yhSzArW8ubY-unsplash.jpg);
+    background-size: cover;
+    position: relative;
+    background-repeat: no-repeat;
+    width: 140px;
+    padding: 6cm;
+    text-align: center;
+    margin-left: 15cm;
+    margin-top: -5cm;
+}
+
+#hd {
+    text-align: center;
+    margin-top: 2cm;
+}
+
+#bar {
+    background-color: white;
+    max-height: 3cm;
+    max-width: 30cm;
+    margin-left: 24cm;
+    position: fixed;
+    margin-top: -8cm;
+    font-size: 27px;
+}
+
+ul>li {
+    display: inline-flex;
+    text-align: justify;
+}
+
+#bar>ul>li {
+    margin-right: 2cm;
+}
+
+
+#bar a:hover {
+    background-color: blueviolet;
+    color: blue;
+    transition: 3sec;
+}
+
+#master {
+    margin-top: 1cm;
+    color: rgb(241, 140, 8);
+    display: flex;
+    text-align: left;
+    font-size: 1cm;
+    margin-top: -8cm;
+    position: fixed;
+    margin-left: 2cm;
+}
