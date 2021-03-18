@@ -1,0 +1,25 @@
+#about {
+    position: relative;
+    top: 1cm;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-image: url(./images/hoover-tung-6lQTFv0VhXk-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 8cm;
+    padding-top: 5cm;
+    max-height: 2cm;
+    background-position: center, center;
+    margin-top: 2cm;
+}
+
+#aboutp {
+    border: 1px;
+    max-width: 6cm;
+    font-size: 50px;
+    margin-top: -4cm;
+    margin-left: 4cm;
+}
+
+
